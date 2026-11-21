@@ -1,0 +1,1 @@
+{"best_model": "Gradient Boosting", "num_cols": ["store_size", "is_holiday", "temperature", "fuel_price", "promotion", "cpi", "unemployment", "year", "month", "week", "lag_1", "lag_4", "rolling_mean_4"], "cat_cols": ["store", "store_type"]}

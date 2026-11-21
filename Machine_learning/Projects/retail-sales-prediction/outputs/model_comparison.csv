@@ -1,0 +1,5 @@
+,MAE,RMSE,R2
+Naive baseline (last week),4968.686,7472.297,0.774
+Linear Regression,3511.568,4930.548,0.901
+Random Forest,1665.671,2452.303,0.976
+Gradient Boosting,1539.318,2120.074,0.982
